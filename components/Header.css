@@ -1,0 +1,18 @@
+/* Header.css */
+
+.transition-transform {
+    transition: transform 0.3s ease-in-out; /* Transition effect */
+  }
+  
+  .fixed {
+    position: fixed; /* Ensure the sidebar is fixed */
+    top: 0;
+    right: 0; /* Align sidebar to the right */
+    width: 256px; /* Sidebar width */
+    height: 100%; /* Full height */
+    background-color: #1F2937; /* Gray background */
+    color: white; /* Text color */
+    padding: 16px; /* Padding */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+  }
+  
